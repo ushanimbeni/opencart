@@ -1,0 +1,57 @@
+2025-05-25 16:48:03 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-25 16:49:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ushan/IdeaProjects/OpenCartFramework/grouping.xml
+
+2025-05-25 16:49:09 [main] INFO  TestCases.TC001_RegisterAccount - Running on Chrome browder
+2025-05-25 16:49:14 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 16:49:14 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-25 16:49:14 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-25 16:49:16 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-25 16:49:16 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-25 16:49:16 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-25 16:49:16 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-25 16:49:16 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-25 16:49:21 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-25 16:51:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ushan/IdeaProjects/OpenCartFramework/test-output/testng-failed.xml
+
+2025-05-25 16:51:28 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-25 16:51:33 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-25 16:51:35 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 08:18:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ushan/IdeaProjects/OpenCartFramework/grid-docker.xml
+
+2025-05-26 08:19:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ushan/IdeaProjects/OpenCartFramework/grid-docker.xml
+
+2025-05-26 08:19:52 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 08:19:52 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 08:19:52 [main] ERROR TestCases.TC001_RegisterAccount - Testcase failed
+2025-05-26 08:19:52 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 08:24:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ushan/IdeaProjects/OpenCartFramework/grid-docker.xml
+
+2025-05-26 08:24:20 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 08:24:20 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 08:24:20 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 08:24:22 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 08:24:22 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 08:24:22 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-26 08:24:22 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 08:24:26 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 08:24:28 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 08:26:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/ushan/IdeaProjects/OpenCartFramework/grid-docker.xml
+
+2025-05-26 08:26:35 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 08:26:35 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 08:26:35 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 08:26:37 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 08:26:37 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 08:26:37 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-26 08:26:37 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 08:26:40 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 08:26:42 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 09:46:00 [main] INFO  TestCases.TC001_RegisterAccount - Running on Chrome browder
+2025-05-26 09:46:05 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 09:46:05 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 

@@ -1,0 +1,4 @@
+2025-05-26 10:05:35 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 10:05:35 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-26 10:05:39 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 10:05:41 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------

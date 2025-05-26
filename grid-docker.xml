@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master suit" thread-count="5">
+
+    <listeners>
+        <!-- Your custom Extent Report listener -->
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="linux-firefox">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="os" value="Linux"/>
+        <classes>
+            <class name="TestCases.TC001_RegisterAccount"/>
+            <class name="TestCases.TC002_Login"/>
+        </classes>
+    </test>
+</suite>

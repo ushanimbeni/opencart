@@ -1,0 +1,46 @@
+2025-05-25 10:10:00 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:10:34 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Running on Chrome browder
+2025-05-25 10:10:38 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 10:10:38 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Clicking on MyAccount------- 
+2025-05-25 10:10:38 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Clicking on Register------- 
+2025-05-25 10:10:39 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 10:10:39 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Clicking on MyAccount------- 
+2025-05-25 10:10:39 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Clicking on Register------- 
+2025-05-25 10:10:41 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Validating confirmation message------- 
+2025-05-25 10:10:41 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Your Account Has Been Created!
+2025-05-25 10:10:41 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:10:42 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Validating confirmation message------- 
+2025-05-25 10:10:42 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - Your Account Has Been Created!
+2025-05-25 10:10:42 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:14:13 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Running on Chrome browder
+2025-05-25 10:14:18 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 10:14:18 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Clicking on MyAccount------- 
+2025-05-25 10:14:19 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Clicking on Register------- 
+2025-05-25 10:14:19 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 10:14:19 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Clicking on MyAccount------- 
+2025-05-25 10:14:19 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Clicking on Register------- 
+2025-05-25 10:14:21 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Validating confirmation message------- 
+2025-05-25 10:14:21 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - Your Account Has Been Created!
+2025-05-25 10:14:21 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:14:21 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Validating confirmation message------- 
+2025-05-25 10:14:21 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Your Account Has Been Created!
+2025-05-25 10:14:21 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:14:21 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Running on edge browder
+2025-05-25 10:14:32 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 10:14:32 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Clicking on MyAccount------- 
+2025-05-25 10:14:32 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Clicking on Register------- 
+2025-05-25 10:14:34 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Validating confirmation message------- 
+2025-05-25 10:14:34 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Your Account Has Been Created!
+2025-05-25 10:14:34 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:24:40 [TestNG-tests-2] INFO  TestCases.TC01_CreateAccount - Running on firefox browder
+2025-05-25 10:24:42 [TestNG-tests-1] INFO  TestCases.TC01_CreateAccount - Running on edge browder
+2025-05-25 10:28:47 [main] INFO  TestCases.TC01_CreateAccount - Running on Chrome browder
+2025-05-25 10:32:36 [main] INFO  TestCases.TC01_CreateAccount - Running on Chrome browder
+2025-05-25 10:32:41 [main] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-25 10:32:41 [main] INFO  TestCases.TC01_CreateAccount - -----------Clicking on MyAccount------- 
+2025-05-25 10:32:41 [main] INFO  TestCases.TC01_CreateAccount - -----------Clicking on Register------- 
+2025-05-25 10:32:44 [main] INFO  TestCases.TC01_CreateAccount - -----------Validating confirmation message------- 
+2025-05-25 10:32:44 [main] INFO  TestCases.TC01_CreateAccount - Your Account Has Been Created!
+2025-05-25 10:32:44 [main] INFO  TestCases.TC01_CreateAccount - -----------Testcase passed------- 
+2025-05-25 10:33:39 [main] INFO  TestCases.TC01_CreateAccount - Running on Chrome browder
+2025-05-25 10:33:43 [main] INFO  TestCases.TC01_CreateAccount - -----------Starting TC01_CreateAccount execution 

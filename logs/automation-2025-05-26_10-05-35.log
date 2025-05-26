@@ -1,0 +1,48 @@
+2025-05-26 09:46:05 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 09:46:07 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 09:46:07 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 09:46:07 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-26 09:46:07 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 09:46:07 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-26 09:46:11 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 09:46:12 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 09:47:02 [main] INFO  TestCases.TC001_RegisterAccount - Running on Chrome browder
+2025-05-26 09:47:06 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 09:47:06 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 09:47:06 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 09:47:08 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 09:47:08 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 09:47:08 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-26 09:47:08 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 09:47:08 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-26 09:47:12 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 09:47:14 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 09:48:28 [main] INFO  TestCases.TC001_RegisterAccount - Running on Chrome browder
+2025-05-26 09:48:32 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 09:48:32 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 09:48:32 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 09:48:34 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 09:48:34 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 09:48:34 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-26 09:48:34 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 09:48:34 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-26 09:48:37 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 09:48:39 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 09:57:59 [main] INFO  TestCases.TC001_RegisterAccount - Running on Chrome browder
+2025-05-26 09:58:03 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 09:58:03 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 09:58:03 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 09:58:05 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 09:58:05 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 09:58:05 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 
+2025-05-26 09:58:05 [main] INFO  TestCases.TC001_RegisterAccount - -------------Finished TC01_CreateAccount execution-------
+2025-05-26 09:58:05 [main] INFO  TestCases.TC002_Login - Running on Chrome browder
+2025-05-26 09:58:09 [main] INFO  TestCases.TC002_Login - -----------Starting TC002_Login --------------
+2025-05-26 09:58:11 [main] INFO  TestCases.TC002_Login - -----------Finished TC002_Login --------------
+2025-05-26 10:05:29 [main] INFO  TestCases.TC001_RegisterAccount - Running on Chrome browder
+2025-05-26 10:05:33 [main] INFO  TestCases.TC001_RegisterAccount - -----------Starting TC01_CreateAccount execution 
+2025-05-26 10:05:33 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on MyAccount------- 
+2025-05-26 10:05:33 [main] INFO  TestCases.TC001_RegisterAccount - -----------Clicking on Register------- 
+2025-05-26 10:05:35 [main] INFO  TestCases.TC001_RegisterAccount - -----------Validating confirmation message------- 
+2025-05-26 10:05:35 [main] INFO  TestCases.TC001_RegisterAccount - Your Account Has Been Created!
+2025-05-26 10:05:35 [main] INFO  TestCases.TC001_RegisterAccount - -----------Testcase passed------- 

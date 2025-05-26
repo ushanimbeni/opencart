@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master suit">
+    <groups>
+        <run>
+            <include name="sanity"/>
+            <include name="regression"/>
+            <include name="master"/>
+        </run>
+    </groups>
+
+    <listeners>
+        <!-- Your custom Extent Report listener -->
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="test1">
+        <parameter name="os" value="MAC"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="TestCases.TC001_RegisterAccount"/>
+            <class name="TestCases.TC002_Login"/>
+        </classes>
+    </test>
+</suite>
